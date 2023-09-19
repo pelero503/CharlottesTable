@@ -5,6 +5,6 @@
 ![Honeycam 2023-09-19 22-20-04](https://github.com/pelero503/CharlottesTable/assets/135421915/afebe03f-61d1-4cbc-8399-1e11397083f9)
 
 ![Honeycam 2023-09-18 02-16-09](https://github.com/pelero503/CharlottesTable/assets/135421915/58c8b782-190c-4188-bb8b-bbd28a883ef5)
-#성과
+# 성과
 한국, 일본에서 높은 잔존률 달성
 미국에서 높은 1인당 과금액 달성
